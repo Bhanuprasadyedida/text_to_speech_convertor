@@ -1,0 +1,25 @@
+# Voice Converter
+
+Voice Converter is a simple web application that converts text to speech using the Web Speech API.
+
+## Features
+- Convert written text into spoken words.
+- Select different voices from available options.
+- Responsive design for various screen sizes.
+
+## Usage
+1. Open the `index.html` file in a web browser.
+2. Write or paste the text you want to convert into the textarea.
+3. Select a voice from the dropdown menu.
+4. Click the "Listen" button to hear the spoken text.
+
+## Files
+- `index.html`: HTML file for the user interface.
+- `voice.css`: CSS file for styling.
+- `voice.js`: JavaScript file for functionality.
+
+## Contributing
+Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
